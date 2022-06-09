@@ -1,1 +1,1 @@
-# face-and-emotion-detection
+# Face & Emotion Detection in Python using Deep Learning!
