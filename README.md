@@ -1,4 +1,4 @@
-# Face & Emotion Detection in Python using Deep Learning!
+# Face & Emotion Detection in Python using Deep Learning
 
 ## CNN Model for Facial and Emotion Detection!
 Structure of a basic CNN. Credit: Jie & Yongsheng.
